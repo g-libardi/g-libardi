@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ECS model for a graphical engine using Rust**
 
-- 👨‍💻 I’m currently learning **low level APP with Rust!**
+- 👨‍💻 I’m currently learning **Rust and its paradigms**
 
 - 🌱 My last project was a **Socket Based Reverse Tunneling Server/Client**
 
