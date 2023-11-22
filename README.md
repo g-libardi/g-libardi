@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-libardi&label=Profile%20views&color=0e75b6&style=flat" alt="g-libardi" /> </p>
 
-- 🔭 I’m currently working on **a DNS local server for security testing**
+- 🔭 I’m currently working on **ECS model for a graphical engine using Rust**
 
-- 🌱 I’m currently learning **a lot of things**
+- 👨‍💻 I’m currently learning **low level APP with Rust!**
 
-- 👨‍💻 All of my projects are available at [libardi.tech](libardi.tech)
+- 🌱 My last project was a **Socket Based Reverse Tunneling Server/Client**
 
 - 📫 How to reach me **guilhermelibardi@hotmail.com**
 
