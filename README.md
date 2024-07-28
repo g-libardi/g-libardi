@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-libardi&label=Profile%20views&color=0e75b6&style=flat" alt="g-libardi" /> </p>
 
-- 🔭 I’m currently working on **My Porfolio**
-
-- 👨‍💻 I’m currently learning **Rust and its paradigms**
-
-- 🌱 My last project was a **Socket Based Reverse Tunneling Server/Client**
-
-- 📫 How to reach me **guilhermelibardi@hotmail.com**
+- 📫 How to reach me **guilherme@libardi.dev.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
