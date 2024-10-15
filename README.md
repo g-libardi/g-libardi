@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-libardi&label=Profile%20views&color=0e75b6&style=flat" alt="g-libardi" /> </p>
 
-- 📫 How to reach me **guilherme@libardi.dev.br**
+- 📫 How to reach me **contato@libardi.dev.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
